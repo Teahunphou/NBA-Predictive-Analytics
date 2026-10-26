@@ -814,7 +814,7 @@ GitHub users can open the `LICENSE` file in the repository to view the full lice
 
 ---
 
-## Group Members
+## contact
 
 For questions about this project, contact one of the project group members:
 
