@@ -804,7 +804,6 @@ print(
 
 This project uses the **MIT License**.
 
-with this:
 
 ```markdown
 ## License
