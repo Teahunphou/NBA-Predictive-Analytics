@@ -1,0 +1,16 @@
+event_id,date,time,season,home_team,away_team,home_team_id,away_team_id,home_score,away_score,venue,status,league,total_points,score_difference,home_win
+2292728,2025-10-02,16:00:00,2025-2026,Philadelphia 76ers,New York Knicks,134863,134862,99,84,Etihad Arena,FT,NBA,183,15,1
+2292729,2025-10-04,02:00:00,2025-2026,Los Angeles Lakers,Phoenix Suns,134867,134868,81,103,Acrisure Arena,FT,NBA,184,-22,0
+2292730,2025-10-04,15:00:00,2025-2026,Philadelphia 76ers,New York Knicks,134863,134862,104,113,Etihad Arena,FT,NBA,217,-9,0
+2357311,2025-10-05,00:00:00,2025-2026,Miami Heat,Orlando Magic,134882,134883,118,126,Kaseya Center,FT,NBA,244,-8,0
+2357312,2025-10-05,01:00:00,2025-2026,Denver Nuggets,Minnesota Timberwolves,134885,134886,116,126,Pechanga Arena,FT,NBA,242,-10,0
+2357313,2025-10-05,21:00:00,2025-2026,Charlotte Hornets,Oklahoma City Thunder,134881,134887,114,135,North Charleston Coliseum,FT,NBA,249,-21,0
+2292731,2025-10-06,23:30:00,2025-2026,Miami Heat,Milwaukee Bucks,134882,134874,93,103,Kaseya Center,FT,NBA,196,-10,0
+2357314,2025-10-06,00:30:00,2025-2026,Golden State Warriors,Los Angeles Lakers,134865,134867,111,103,Chase Center,FT,NBA,214,8,1
+2357315,2025-10-07,00:00:00,2025-2026,Houston Rockets,Atlanta Hawks,134876,134880,122,113,Toyota Center,FT,NBA,235,9,1
+2357316,2025-10-07,00:00:00,2025-2026,Memphis Grizzlies,Detroit Pistons,134877,134872,112,128,FedExForum,FT,NBA,240,-16,0
+2357317,2025-10-07,00:30:00,2025-2026,Dallas Mavericks,Oklahoma City Thunder,134875,134887,106,89,Dickies Arena,FT,NBA,195,17,1
+2357318,2025-10-07,02:00:00,2025-2026,Toronto Raptors,Denver Nuggets,134864,134885,108,112,Rogers Arena,FT,NBA,220,-4,0
+2357319,2025-10-07,23:00:00,2025-2026,Cleveland Cavaliers,Chicago Bulls,134871,134870,117,118,Rocket Arena,FT,NBA,235,-1,0
+2292732,2025-10-08,23:30:00,2025-2026,Miami Heat,San Antonio Spurs,134882,134879,107,112,Kaseya Center,FT,NBA,219,-5,0
+2357320,2025-10-08,00:00:00,2025-2026,Minnesota Timberwolves,Indiana Pacers,134886,134873,134,135,Target Center,AOT,NBA,269,-1,0
