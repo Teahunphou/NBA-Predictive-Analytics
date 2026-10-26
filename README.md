@@ -804,11 +804,6 @@ print(
 
 This project uses the **MIT License**.
 
-
-## License
-
-This project uses the **MIT License**.
-
 See the [LICENSE](LICENSE) file for the full license terms.
 GitHub users can open the `LICENSE` file in the repository to view the full license terms.
 
